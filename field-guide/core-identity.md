@@ -4,7 +4,7 @@
 
 A lived scholarly archive assembled through domestic acts of collecting, sorting, labeling, studying, repairing, and preserving.
 
-The visual world is materially grounded rather than generically nostalgic. Its history is carried through the actual behavior of objects: kraft paper wrapped around a small specimen box; shells arranged by size; a label written for retrieval rather than decoration; an optical instrument kept near books, thread, cards, and household tools.
+The visual world is materially grounded rather than generically nostalgic. Its history is carried through the actual behavior of objects: a small specimen box whose exterior surface is brown kraft paper; shells arranged by size; a label written for retrieval rather than decoration; an optical instrument kept near books, thread, cards, and household tools.
 
 ## Primary qualities
 
@@ -26,7 +26,7 @@ Catalog cards, annotations, index systems, envelopes, folders, shallow drawers, 
 
 Natural objects made legible through arrangement: shells, moths, seaweed, botanical fragments, slides, bones, stones, small objects in compartments. Sorting may be taxonomic, comparative, practical, or personal.
 
-A key personal reference is a cigar-box-sized collection of seashells, wrapped externally in brown kraft paper, with the shell size lettered on the lid.
+A key personal reference is a cigar-box-sized collection of seashells sorted by size. The boxes themselves had a brown kraft-paper surface, with the shell size lettered directly on the lid.
 
 ### Domestic handmade
 
