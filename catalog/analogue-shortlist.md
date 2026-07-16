@@ -9,6 +9,7 @@ The future personal landing page should remain formally archival, scholarly, mat
 ## Selected references
 
 Place web-sized copies in `references/personal/analogue/`.
+Source images are in ~/Downloads/Photos-1-001
 
 ### Optical / analogue transformation
 
