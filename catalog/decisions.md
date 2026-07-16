@@ -39,3 +39,15 @@ Record meaningful acceptances, rejections, tensions, and revisions here. The pur
 **What does not:** Polished luxury collector cases or decorative coastal styling.
 
 **What this teaches the field guide:** Personal systems of sorting and keeping are more important than generic museum spectacle.
+
+### 2026-07-16 — Reference reorganization set 01
+
+**Reference:** Lara analogue shortlist and external inspiration indices 1 through 78
+
+**Decision:** Structured split between personal anchors, external primary and secondary references, hold, and quarantine
+
+**What works:** Lara's ten analogue photographs remain foundational and distinct from external inspiration. Explicitly assigned external images are renamed into stable families, while hold images preserve their intake filenames pending future naming. Too-literal gothic and peripheral misalignments are quarantined without corrupting provenance.
+
+**What does not:** Leaving personal work mixed into inspiration intake, inventing names for unapproved hold images, or expanding quarantine beyond clearly assigned cases.
+
+**What this teaches the field guide:** The archive stays trustworthy when curation separates source groups, records why images were accepted or sidelined, and keeps ambiguity in hold rather than forcing a false resolution.
